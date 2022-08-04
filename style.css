@@ -13,6 +13,7 @@ body{
 
 .container {
     width: 400px;
+    box-shadow: 5px 10px 8px 10px #888888
 }
 
 
